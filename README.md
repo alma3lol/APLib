@@ -4,9 +4,9 @@ A PHP library to create your website smooth, easy &amp; secure.
 ## Setup
 1. Download APLib:
    * `cd [DOCUMENT ROOT]`
-   * `git clone https://github.com/almapro/APLib.git`
-2. Download [APLib externals](https://github.com/almapro/APLib-ext/):
-   * `git clone https://github.com/almapro/APLib-ext.git`
+   * `git clone https://github.com/alma3lol/APLib.git`
+2. Download [APLib externals](https://github.com/alma3lol/APLib-ext/):
+   * `git clone https://github.com/alma3lol/APLib-ext.git`
 3. Put everything in place:
    * Move all sub folders of APLib-ext folder to `DOCUMENT ROOT`
 
@@ -83,6 +83,6 @@ You can find anything in a class path related to the usage path.
 
 Now with this explanation of how **APLib** is structured, you can find pretty much everything.
 ##### Wiki
-You can see the [wiki](https://github.com/almapro/APLib/wiki/) for a better understanding of what **APLib** is capable of.
+You can see the [wiki](https://github.com/alma3lol/APLib/wiki/) for a better understanding of what **APLib** is capable of.
 ## Examples
-APLib now has a repository for examples: [https://github.com/almapro/APLib-Examples/](https://github.com/almapro/APLib-Examples/).
+APLib now has a repository for examples: [https://github.com/alma3lol/APLib-Examples/](https://github.com/alma3lol/APLib-Examples/).

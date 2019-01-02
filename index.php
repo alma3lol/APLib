@@ -100,7 +100,7 @@
 			array(
 				array('A PHP Library', 'A library full of ready-to-use components to help you create your website fast.'),
 				array('ALMA PRO Library', 'Created with the sight of a hacker. Security, Automation & Hackablity.'),
-				// array('ALMA PRO LEADER Library', 'A leading PHP library created with the porpuse of showing newbie websites\' creators the '.\APLib\Bootstrap::mark('difference').' between<BR> a '.\APLib\Bootstrap::abbreviation(\APLib\Bootstrap::keyboard('PHP').' developer', "A coder who writes PHP code.\r\nA REAL developer.").' & a '.\APLib\Bootstrap::abbreviation(\APLib\Bootstrap::code('WordPress').' developer', "A fool who thinks editing WordPress templates is developing :/").'.')
+				// array('Omar Almalol Library', 'A leading PHP library created with the porpuse of showing newbie websites\' creators the '.\APLib\Bootstrap::mark('difference').' between<BR> a '.\APLib\Bootstrap::abbreviation(\APLib\Bootstrap::keyboard('PHP').' developer', "A coder who writes PHP code.\r\nA REAL developer.").' & a '.\APLib\Bootstrap::abbreviation(\APLib\Bootstrap::code('WordPress').' developer', "A fool who thinks editing WordPress templates is developing :/").'.')
 			),
 			4
 		);
@@ -227,7 +227,7 @@
 		echo "\r\n			<div id='saying1'>";
 		echo \APLib\Bootstrap::blockquote(
 			"Variety of thinking is the mother of innovation.",
-			"ALMA PRO LEADER",
+			"Omar Almalol",
 			4
 		);
 		echo "\r\n			</div>";

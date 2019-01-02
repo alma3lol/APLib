@@ -4,10 +4,10 @@
 	 *
 	 * @package   APLib
 	 * @version   0.1
-	 * @author    ALMA PRO LEADER
+	 * @author    Omar Almalol
 	 * @license   MIT License
 	 * @copyright 2017-2018
-	 * @link      https://github.com/almapro/APLib/
+	 * @link      https://github.com/alma3lol/APLib/
 	 */
 
 	namespace APLib\Response\Body;
