@@ -6,7 +6,7 @@
    * @version   0.1
    * @author    Omar Almalol
    * @license   MIT License
-   * @copyright 2017-2018
+   * @copyright 2017-2019
    * @link      https://github.com/alma3lol/APLib/
    */
 
