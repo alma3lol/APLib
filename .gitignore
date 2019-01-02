@@ -1,0 +1,7 @@
+cache/
+Components/Tests/
+logs/
+boost*.php
+composed/composer.lock
+composed/vendor/
+composed/test*.php
